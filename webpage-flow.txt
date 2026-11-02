@@ -1,0 +1,19 @@
+         VISITOR
+               |
+               v
+           BROWSER
+               |
+               | Requests a webpage
+               v
+          WEB SERVER
+               |
+               | Sends website files
+               v
+           BROWSER
+               |
+               | Reads and displays files
+               v
+        FINISHED WEBPAGE
+HTML = Structure and content
+CSS = Appearance and layout        
+Javascrpit = Behaviour and interactivity
